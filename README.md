@@ -1,1 +1,1 @@
-This is my demo repository, where i am teaching code uploading concept with my student 
+This is my demo repository, where i am code uploading concept with my student 
